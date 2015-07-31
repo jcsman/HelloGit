@@ -1,2 +1,2 @@
 # HelloGit
-HelleGit，I want to learn you only!
+Hello GitHub，I want to mange my code by you only!
